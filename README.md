@@ -4,10 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Creative%20Developer&fontSize=90" />
 </div>
 
-### 🎨 About Me
-> "From crafting beauty as a hair designer to pursuing dreams as an AI developer - I create new possibilities through code."
+🎨 About Me
 
-I strive to deliver unique value to people through attention to detail and creativity. By combining my customer-centric mindset and aesthetic sense from my experience as a hair designer, I'm exploring new possibilities in the world of programming and artificial intelligence.
+"From crafting beauty as a hair designer to pursuing dreams as an AI developer - I create new possibilities through code."
+
+I strive to deliver unique value to people through attention to detail and creativity. By combining my customer-centric mindset and aesthetic sense from my experience as a hair designer, I'm exploring new possibilities in the world of programming and artificial intelligence. My approach to development emphasizes intuitive design principles and user experience, believing that the most effective solutions are those that seamlessly bridge technology and human interaction.
 
 ### 💫 Vision & Interest
 - 🤖 Pursuing workflow optimization through AI automation systems
