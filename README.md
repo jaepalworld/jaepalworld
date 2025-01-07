@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jaewon Choi!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20Creative%20Developer&fontSize=90" />
+  <img src="./images/ai-robot.png" width="400" alt="AI Robot Developer"/>
 </div>
 
 🎨 About Me
