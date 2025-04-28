@@ -21,7 +21,7 @@ AI 기술을 활용한 미용 산업 혁신과 사용자 중심의 서비스 자
 🔍 전문성:
 뷰티테크(BeautyTech) 분야에 특화된 AI 솔루션 개발과 사용자 경험 최적화
 
-### 🛠️ Tech Stack
+### 🛠️ 스킬
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
