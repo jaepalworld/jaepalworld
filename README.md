@@ -4,17 +4,14 @@
   <img src="./images/ai-robot.png" width="400" alt="AI Robot Developer"/>
 </div>
 
-🎨 About Me
+🎨 소개
+"헤어 디자이너로서 아름다움을 그리던 경험에서 AI 개발자로서의 꿈을 향해 - 이제는 코드를 통해 새로운 그림을 그리고 있습니다."
+세심한 관심과 창의성을 통해 사람들에게 독특한 가치를 전달하고자 노력합니다. 헤어 디자이너로서의 경험에서 얻은 고객 중심 마인드와 미적 감각을 결합하여 프로그래밍과 인공지능 세계에서 새로운 가능성을 탐구하고 있습니다. 제 개발 접근 방식은 직관적인 디자인 원칙과 사용자 경험을 강조하며, 가장 효과적인 솔루션은 기술과 인간 상호작용을 원활하게 연결하는 것이라고 믿습니다. AI도 학습을 통해 섬세함과 미적 감각으로 아이디어를 창출할 수 있습니다. 하지만 그 섬세함과 미적 감각의 본질은 결국 사람에게서 비롯됩니다.
+💫 비전 및 관심사
 
-"From crafting beauty as a hair designer to pursuing dreams as an AI developer - I create new possibilities through code."
-
-I strive to deliver unique value to people through attention to detail and creativity. By combining my customer-centric mindset and aesthetic sense from my experience as a hair designer, I'm exploring new possibilities in the world of programming and artificial intelligence. My approach to development emphasizes intuitive design principles and user experience, believing that the most effective solutions are those that seamlessly bridge technology and human interaction.
-
-### 💫 Vision & Interest
-- 🤖 Pursuing workflow optimization through AI automation systems
-- 💇‍♀️ Researching innovations in the beauty industry using AI technology
-- 🎯 Creative developer seeking harmony between technology and art
-- 🌱 Passionate learner with continuous growth mindset
+🎯 목표: AI 기술을 활용한 미용 산업 혁신과 사용자 중심의 서비스 자동화 구현
+🧭 방향성: 예술적 감각과 기술적 전문성의 조화를 통한 새로운 가치 창출
+🔍 전문성: 뷰티테크(BeautyTech) 분야에 특화된 AI 솔루션 개발과 사용자 경험 최적화
 
 ### 🛠️ Tech Stack
 **Languages & Frameworks**
