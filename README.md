@@ -33,15 +33,29 @@ AI 기술을 활용한 미용 산업 혁신과 사용자 중심의 서비스 자
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Projects
-1. **AI Image Generation & Transformation System**
-   - Project focusing on image generation and style transformation using AI technology
-   - Development of automated system for creating and transforming images in various styles
+🚀 프로젝트
 
-2. **AI Automated Social Media Manager**
-   - Development of automated feed generation and comment system
-   - Implementation of social media content automation and management system
+AI 이미지 생성 및 변환 시스템
 
+FastAPI와 ComfyUI를 활용한 고성능 이미지 생성 및 처리 백엔드 구축
+Firebase Storage를 통한 효율적인 이미지 저장 및 관리 시스템 구현
+풀스택 개발: 백엔드 로직부터 프론트엔드 UI까지 전체 시스템 설계 및 개발
+
+
+RAG 기반 지식 검색 및 응답 생성 시스템
+
+OpenAI GPT API를 활용한 고급 RAG(Retrieval-Augmented Generation) 아키텍처 구현
+벡터 데이터베이스를 활용한 효율적인 의미 기반 검색 시스템 설계
+맥락 인식 프롬프트 엔지니어링을 통한 응답 정확도 및 관련성 최적화
+사용자 쿼리에 대한 지식 그래프 기반 추론 메커니즘 개발
+
+
+AI 자동화 소셜 미디어 관리자
+
+LLM과 Ollama를 활용한 지능형 콘텐츠 생성 및 관리 시스템 개발
+RAG(Retrieval-Augmented Generation) 기반 AI 에이전트 구현으로 맥락 인식 응답 생성
+Firebase 실시간 데이터베이스를 활용한 사용자 상호작용 관리
+Python 기반 데이터 분석 및 React 프론트엔드로 완전한 풀스택 솔루션 제공
 
 ### 📫 Contact & Links
 <div align="center">
