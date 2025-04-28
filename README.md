@@ -57,10 +57,6 @@
 [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@cjw4032/posts)
 </div>
 
-### 🏆 GitHub 트로피
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaepalworld&theme=nord&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
