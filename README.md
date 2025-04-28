@@ -50,6 +50,36 @@
    - Firebase 실시간 데이터베이스를 활용한 사용자 상호작용 관리
    - Python 기반 데이터 분석 및 React 프론트엔드로 완전한 풀스택 솔루션 제공
 
+## 📊 GitHub 통계
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <!-- GitHub 통계 -->
+        <img src="https://github-readme-stats.vercel.app/api?username=jaepalworld&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub 통계"/>
+        <h3 align="center">GitHub Stats</h3>
+      </td>
+      <td width="50%">
+        <!-- 가장 많이 사용한 언어 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaepalworld&layout=donut&theme=radical&hide_border=true" alt="가장 많이 사용한 언어"/>
+        <h3 align="center">Most Used Languages</h3>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- 기여 스트릭 -->
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaepalworld&theme=radical&hide_border=true" alt="기여 스트릭"/>
+        <h3 align="center">Contribution Streak</h3>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 활동 그래프 -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaepalworld&theme=radical" alt="활동 그래프"/>
+</div>
 ### 📫 연락처 및 링크
 <div align="center">
   
